@@ -1,1 +1,1 @@
-# rsschool-cv
+Link to my cv: https://pavelvolkau.github.io/rsschool-cv/cv
