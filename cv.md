@@ -66,3 +66,25 @@ function rgb(r, g, b) {
     .join('')
 }
 ```
+
+---
+
+### **_Education_**
+
+---
+
+- «Vitebsk State University of Technology», Belarus
+- Web Development for Beginners: HTML and CSS (stepick.org)
+- Web Developer 2021 (udemy.com)
+- Course in JavaScript - from scratch to result (udemy.com)
+- JavaScript Manual on learnjavascript.ru (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+### **_Languages_**
+
+---
+
+- Russian - Native
+- English - A1
